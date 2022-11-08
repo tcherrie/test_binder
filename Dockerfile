@@ -15,4 +15,3 @@ RUN chown -R ${NB_UID} ${HOME}
 USER ${NB_USER}
         
 WORKDIR /home/${NB_USER}
-# taken from https://github.com/schruste/ngsolve-binder-examples/blob/master/binder/Dockerfile
