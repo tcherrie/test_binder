@@ -1,4 +1,4 @@
-FROM schruste/ngsolve:v6.2.2101
+FROM schruste/ngsxfem:v1.3.2101
 
 ARG NB_USER=jovyan
 ARG NB_UID=1000
